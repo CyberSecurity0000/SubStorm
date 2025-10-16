@@ -2,7 +2,11 @@
 
 Script de descoberta / brute‑DNS (subdomain brute) — direto, minimal e focado no programa.
 
-> ⚠️ Uso apenas em ambiente autorizado (lab/VM). Não execute contra terceiros sem permissão.
+## ⚠️ Aviso: Labs, Ética e Metodologia
+
+**Uso Exclusivo para *Labs* (Estudo, Pentest Ético e Revisão).**
+
+*O uso desta ferramenta fora de um **escopo autorizado (com consentimento legal e explícito)** é **invasão** e de total responsabilidade do usuário. Seja sempre **metódico (MrRobot)** no escopo e na intenção.*
 
 ---
 
